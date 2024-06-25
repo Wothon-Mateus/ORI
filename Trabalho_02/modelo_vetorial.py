@@ -1,6 +1,5 @@
 # Wothon MAteus de Araujo
 # 12111BSI262
-# CONCLUIDO DIA 05/11
 
 from math import log
 from math import sqrt
