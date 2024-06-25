@@ -1,5 +1,4 @@
 # Wothon Mateus de Araujo 12111BS1262
-# Conclusão : 25/11/2023
 
 
 import matplotlib.pyplot as plt
